@@ -1,6 +1,5 @@
 <html>  
-<body >
-     <h1> Firebase ? </h1>
+<body style="background-color:#565050;">
      <p>
          Firebase vous donne les outils pour développer des applications de haute qualité, développer votre base d'utilisateurs et gagner plus d'argent.<br/>
          Nous couvrons l'essentiel afin que vous puissiez monétiser votre entreprise et vous concentrer sur vos utilisateurs.
@@ -22,10 +21,6 @@
      </p>
  
      <iframe width="280" height="159" src="https://www.youtube.com/embed/O17OWyx08Cg?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-     
-     <h2>Découvrez plus sur Firebase</h2>
-
-     https://firebase.google.com/docs?gclid=CjwKCAjwtqj2BRBYEiwAqfzur2vPcMOKWNNXKGFFc8B8-oRXKvjUZy2SUTU31gMF2qME9GeW6qrv8RoC46AQAvD_BwE
 
      
 </body>
