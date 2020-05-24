@@ -1,5 +1,5 @@
 <html>  
-<body style="background-color:#565050;">
+<body style="background-color:#ff50ff;">
      <p>
          Firebase vous donne les outils pour développer des applications de haute qualité, développer votre base d'utilisateurs et gagner plus d'argent.<br/>
          Nous couvrons l'essentiel afin que vous puissiez monétiser votre entreprise et vous concentrer sur vos utilisateurs.
